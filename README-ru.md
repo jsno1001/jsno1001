@@ -1,5 +1,7 @@
 # Jsno
 
+### [Русский](https://github.com/jsno1001/jsno1001/blob/main/README-ru.md) [English](https://github.com/jsno1001/jsno1001/blob/main/README.md)
+
 ## Факты обо мне
 + ## Я знаю языки программирования
     + ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
